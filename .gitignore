@@ -22,3 +22,5 @@ coverage/
 
 # Ignore environment config
 config.js
+
+cat .gitignore
