@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs/
+*.log
+logs/*.log
+debug.log
+error.log
+
+# OS/Editor files
+.DS_Store
+.vscode/
+Thumbs.db
+
+# Build files
+dist/
+coverage/
+
+# Ignore environment config
+config.js
